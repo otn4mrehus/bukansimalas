@@ -1,2 +1,3 @@
 # bukansimalas
-Presensi Geolokasi dan Foto
+### Buki Unjuk Kehadiran dengan Sistem Manajemen Kelas
+Presensi Siswa dengan Geolokasi dan Foto
